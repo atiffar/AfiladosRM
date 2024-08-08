@@ -6,7 +6,7 @@ para los titulos secundarios  uso el color #E000D1
 
 para los titulos de enlace uso el color #E0B300
 
-para los campos a completar uso el color #4B00E0
+para los campos a completar uso el color #e07700
 
 para los textos uso el color #00E023
 
@@ -23,25 +23,30 @@ fondo de pantalla en cada pagina #61305E
 
 .titulo-prima{
     color: #00E0C7;
+    font-size: 25px;
 }
 
 /* header */
 .contacto{
     width: 50px;
+
 }    
 
 .titulo-secun{
     color: #E000D1;
+    font-size: 20px;
 }
 
 .titulo-enla{
     color:#E0B300 ;
+    font-size: 13px;
 }
 
 /* main */
 
 .completar{
-    color: #4B00E0;
+    color: #e07700;
+    font-size: 18px;
 }
 
 .maquinas{
@@ -54,5 +59,6 @@ fondo de pantalla en cada pagina #61305E
 
 .textos{
     color: #00E023;
+    font-size: 30px;
 }
     
