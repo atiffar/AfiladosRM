@@ -1,0 +1,157 @@
+
+/*
+para los titulos importantes uso el color #00E0C7
+
+para los titulos secundarios  uso el color #E000D1
+
+para los titulos de enlace uso el color #E0B300
+
+para los campos a completar uso el color #e07700
+
+para los textos uso el color #00E023
+
+fondo de pantalla en cada pagina #61305E
+
+*/
+
+
+/* fondo de pantalla */
+.fondo{
+    background-color: slategray;
+    color: #00E023;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+
+
+.TITULO{
+    color: #00E0C7;
+    font-size: 25px;
+    font-family:adelia
+}
+
+
+
+/* header */
+.contacto{
+    width: 50px;
+
+}    
+
+
+
+
+.INFO{
+   list-style-type: none;
+   padding: 0%;
+   text-align: center;
+   display: flex;
+
+}
+
+.INFO-LI{
+    border: 1px;
+    padding: 1px;
+    color: darkmagenta;
+    flex-grow: 1;
+
+}
+.INFO-LI a{
+    padding: 10px 15px;
+    background-color: #00E023;
+    color: magenta;
+    text-decoration: none;
+    border-radius: 7px;
+}
+
+.LISTADO-CONTACTO{
+    list-style-type: none;
+}
+
+.qrdeig{
+       width: 100px;
+    }
+
+    .qrdewsp{
+        width: 80px;
+    }
+/* main */
+
+.completar{
+    color: #e07700;
+    font-size: 18px;
+}
+
+
+.maquinas{
+   width: 100px;
+   }
+.listado-maquinas{
+    list-style-type: none;
+}
+
+.COMOSEHACE{
+color:#00E0C7 ;
+}
+
+.lijas{
+    color: #4201b2;
+    list-style-type: none;
+}
+
+
+
+/* textos */
+
+.TEXTO{
+    color: #00E023;
+    font-size: 30px;
+}
+    
+/*PAGINA PRECIOS*/
+.LISTA-PRECIOS{
+    list-style-type: none;
+}
+
+/*PAGINA EXPERIENCIA*/
+.LISTA-EXPERIENCIA{
+   
+    list-style-type: none;
+    padding: 5px 10px;
+    background-color: magenta;
+    color: green;
+    text-decoration: none;
+    border-left: 5px;
+    border-right: 5px;
+}
+
+/*CORREO DE CONSULTA*/
+.CORREO-PARA-CONSULTA{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+}
+.CORREO-TEXTO-CONSULTA{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+    font-weight: bold;
+    padding: 8px;
+    font-size: 16px;
+}
+
+
+.CONSULTA-POR-CORREO{
+    font-size: 10px ;
+    padding: 20px 120px;
+    
+    
+
+}
